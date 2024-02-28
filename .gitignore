@@ -1,0 +1,10 @@
+/.idea/
+**/*.iml
+
+# gerated files #
+.*.o
+.*_bpfe*.go
+
+# builds #
+**/build/
+**/bin/
